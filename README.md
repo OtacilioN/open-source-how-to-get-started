@@ -1,11 +1,20 @@
 # Open Source, How to get started
 Repositório da versão em Português do Brasil da apresentacão: "Open Source, How to get started"
 
+## Como utilizar
+Esta apresentação é Open Source _(Nada mais justo, não?)_, portanto você pode utilizar, modificar e redistribuir. Atente a [licença](https://github.com/OtacilioN/open-source-how-to-get-started/blob/master/LICENSE) e aos tópicos a seguir
+
+### Modifique os slides 2 e 3
+Substitua os slides adicionando seus dados, neste momento é interessante você introduzir o seu próprio contexto, contando como foi o seu "get started" dentro do universo Open Source. É interessante mostrar seu background em relação à comunidades e projetos Open Source que você partipou
+
+### Mofique o último slide
+Neste slide adicione suas informações de contato para que o público possa te encontrar e trocar uma idéia após a apresentação, você pode modificar os ícones, textos, proporções, etc. Você **não deve remover o tópico de atribuição** _(creative commons)_ com o link bit.ly/getstartedOS
+
 ## Histórico de Uso
 Registro dos locais e eventos em que esta apresentação foi utilizada
 
 ### FLISoL 2018 Recife
-[Festival Latino-americano de Instalação de Software Livre](https://flisol.info/FLISOL2018/Brasil/Recife) um evento gratuito e aberto ao público em geral.
+[Festival Latino-americano de Instalação de Software Livre](https://flisol.info/FLISOL2018/Brasil/Recife) um evento gratuito e aberto ao público em geral
 
 #### Quem, Onde, Quando?
 - Otacilio Maia
