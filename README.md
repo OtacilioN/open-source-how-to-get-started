@@ -1,6 +1,16 @@
 # Open Source, How to get started
-
 Repositório da versão em Português do Brasil da apresentacão: "Open Source, How to get started"
+
+## Histórico de Uso
+Registro dos locais e eventos em que esta apresentação foi utilizada
+
+### FLISoL 2018 Recife
+[Festival Latino-americano de Instalação de Software Livre](https://flisol.info/FLISOL2018/Brasil/Recife) um evento gratuito e aberto ao público em geral.
+
+#### Quem, Onde, Quando?
+- Otacilio Maia
+- Dia 28 de Abril de 2018
+- Recife, Pernambuco, Brasil
 
 ## Licença
 
