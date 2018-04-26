@@ -1,5 +1,7 @@
 # Open Source, How to get started
-Repositório da versão em Português do Brasil da apresentacão: "Open Source, How to get started"
+Open Source, How to get started é uma apresentação para inciantes sobre como introduzir-se no universo do Open Source, onde a própria apresentação é Open Source, tendo com o intuito de incentivar  e mostrar caminhos para que novas pessoas tenham a oportunidade de fazer parte deste ecossistema.
+
+A ideia é construir de forma Open Source um framework de apresentação sobre Open Source, portanto colaborações são sempre bem vindas, sinta-se a vontade em debater através de issues no repositório e através de Pull Requests.
 
 ## Como utilizar
 Esta apresentação é Open Source _(Nada mais justo, não?)_, portanto você pode utilizar, modificar e redistribuir. Atente a [licença](https://github.com/OtacilioN/open-source-how-to-get-started/blob/master/LICENSE) e aos tópicos a seguir:
