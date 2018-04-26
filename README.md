@@ -2,7 +2,7 @@
 Repositório da versão em Português do Brasil da apresentacão: "Open Source, How to get started"
 
 ## Como utilizar
-Esta apresentação é Open Source _(Nada mais justo, não?)_, portanto você pode utilizar, modificar e redistribuir. Atente a [licença](https://github.com/OtacilioN/open-source-how-to-get-started/blob/master/LICENSE) e aos tópicos a seguir
+Esta apresentação é Open Source _(Nada mais justo, não?)_, portanto você pode utilizar, modificar e redistribuir. Atente a [licença](https://github.com/OtacilioN/open-source-how-to-get-started/blob/master/LICENSE) e aos tópicos a seguir:
 
 ### Modifique os slides 2 e 3
 Substitua os slides adicionando seus dados, neste momento é interessante você introduzir o seu próprio contexto, contando como foi o seu "get started" dentro do universo Open Source. É interessante mostrar seu background em relação à comunidades e projetos Open Source que você partipou
