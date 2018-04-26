@@ -9,8 +9,11 @@ Esta apresentação é Open Source _(Nada mais justo, não?)_, portanto você po
 ### Modifique os slides 2 e 3
 Substitua os slides adicionando seus dados, neste momento é interessante você introduzir o seu próprio contexto, contando como foi o seu "get started" dentro do universo Open Source. É interessante mostrar seu background em relação à comunidades e projetos Open Source que você partipou
 
-### Mofique o último slide
+### Modifique o último slide
 Neste slide adicione suas informações de contato para que o público possa te encontrar e trocar uma idéia após a apresentação, você pode modificar os ícones, textos, proporções, etc. Você **não deve remover o tópico de atribuição** _(creative commons)_ com o link bit.ly/getstartedOS
+
+### Modifique o restante à sua necessidade
+Você pode/deve modificar a apresentação à sua necessidade, isto inclue assets, paleta de cores, conteúdo, textos, etc. Sinta-se à vontade, a apresentação também é sua, ah lembre-se de contar-nos o que você modificou e o que pode ser legal para evoluir a apresentação como um todo. 
 
 ## Histórico de Uso
 Registro dos locais e eventos em que esta apresentação foi utilizada
